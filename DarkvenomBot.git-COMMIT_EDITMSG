@@ -1,0 +1,6 @@
+Add ability to manage and prevent link sharing within group chats
+
+Implements `antilink.js` command with on/off, kick, warn, and whitelist options, and configures antilink settings in `config.js`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 41926d53-2534-41b8-8a7e-2e56c92b920b
